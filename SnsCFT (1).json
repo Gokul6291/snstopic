@@ -19,7 +19,7 @@
                     }
                 ],
                 "TopicName": {
-                    "Ref": "MySNSTopic"
+                    "Ref": "TopicName"
                 }
             }
         }
