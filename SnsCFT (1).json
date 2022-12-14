@@ -5,7 +5,7 @@
         "TopicName": {
             "Type": "String",
             "Description": "Topic Name",
-            "Default": "my-topic"
+            "Default": "DecSnstopic"
         }
     },
     "Resources": {
